@@ -148,4 +148,4 @@ client.on('message', async message => {
 //   }, 20000); // Runs this every 10 seconds.
 // });
 
-client.login(config.BOT_TOKEN)
+client.login(ENV['BOT_TOKEN'])
