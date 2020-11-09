@@ -1,0 +1,15 @@
+{
+  "name": "pacote-salesforce",
+  "version": "1.0.0",
+  "description": "controle de pacote para uat e partial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "keyv": "^4.0.3"
+  }
+}
